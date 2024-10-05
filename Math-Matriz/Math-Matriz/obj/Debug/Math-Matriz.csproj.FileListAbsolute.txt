@@ -1,0 +1,9 @@
+C:\Users\Stuald\Documents\Proyecto_Matrices\MatriX\Math-Matriz\Math-Matriz\bin\Debug\Math-Matriz.exe.config
+C:\Users\Stuald\Documents\Proyecto_Matrices\MatriX\Math-Matriz\Math-Matriz\bin\Debug\Math-Matriz.exe
+C:\Users\Stuald\Documents\Proyecto_Matrices\MatriX\Math-Matriz\Math-Matriz\bin\Debug\Math-Matriz.pdb
+C:\Users\Stuald\Documents\Proyecto_Matrices\MatriX\Math-Matriz\Math-Matriz\obj\Debug\Math-Matriz.csproj.AssemblyReference.cache
+C:\Users\Stuald\Documents\Proyecto_Matrices\MatriX\Math-Matriz\Math-Matriz\obj\Debug\Math_Matriz.Properties.Resources.resources
+C:\Users\Stuald\Documents\Proyecto_Matrices\MatriX\Math-Matriz\Math-Matriz\obj\Debug\Math-Matriz.csproj.GenerateResource.cache
+C:\Users\Stuald\Documents\Proyecto_Matrices\MatriX\Math-Matriz\Math-Matriz\obj\Debug\Math-Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Stuald\Documents\Proyecto_Matrices\MatriX\Math-Matriz\Math-Matriz\obj\Debug\Math-Matriz.exe
+C:\Users\Stuald\Documents\Proyecto_Matrices\MatriX\Math-Matriz\Math-Matriz\obj\Debug\Math-Matriz.pdb
